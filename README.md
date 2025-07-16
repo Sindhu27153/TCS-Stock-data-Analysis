@@ -93,8 +93,3 @@ This project is for educational and research purposes. Use responsibly. Attribut
 
 ---
 
-## 👤 Author
-
-**[Your Name]**  
-[LinkedIn Profile] | [GitHub Profile] | [Email]
-# TCS-Stock-data-Analysis
