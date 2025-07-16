@@ -1,4 +1,4 @@
-# 📊 TCS Stock Price Forecasting (2002–2016)
+# 📊 TCS Stock Price Forecasting
 
 This project aims to forecast the closing stock prices of Tata Consultancy Services (TCS) using machine learning techniques — specifically focusing on **Linear Regression**, which outperformed other models in this study.
 
